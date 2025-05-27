@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+>
+>This project was part of my coursework. Since the course has ended, it will no longer be updated.
+
+
 # SR04_Driver
 
 A MicroPython SR04 Ultrasonic Distance Sensor driver.
